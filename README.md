@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🎉%20Come%20In%20💻%20🎉&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Introduce%20My%20Self&fontSize=90)
 
 ### Hi there 👋
 
