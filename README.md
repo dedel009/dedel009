@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Projects&fontSize=80&animation=blinking&desc=(feat.기대금지🚫)&descAlign=90&descAlignY=75&fontColor=3d85c6&stroke=0b5394)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Projects&fontSize=80&animation=blinking&desc=(feat.기대금지🚫)&descAlign=90&descAlignY=75&fontColor=3d85c6&stroke=0b5394&strokeWidth=3)
 
 ### Hi there 👋
 
