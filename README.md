@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Come%20In%20I'm%20Open%20🚪&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Come%20In%20🚪&fontSize=90)
 
 ### Hi there 👋
 
