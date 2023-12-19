@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Projects&fontSize=80&animation=blinking&desc=(feat.기대금지🚫)&descAlign=90&descAlignY=75&fontColor=3d85c6&stroke=0b5394&strokeWidth=2)
 
 ### Hi there 👋
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
 
 <!--
 **dedel009/dedel009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
