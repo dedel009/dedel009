@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Project&fontSize=80&animation=blinking&desc=잘부탁드려요&descAlign=100&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Project&fontSize=80&animation=blinking&desc=잘부탁드려요&descAlign=90&descAlignY=60)
 
 ### Hi there 👋
 
