@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Self&fontSize=90&animation=blinking&desc=Desc)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Project&fontSize=90&animation=blinking&desc=잘부탁드려요&descAling=100)
 
 ### Hi there 👋
 
