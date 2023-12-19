@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=come in we're open)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Come%20In%20I'm%20Open&fontSize=90)
 ### Hi there 👋
 
 <!--
