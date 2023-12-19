@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Projects&fontSize=80&animation=blinking&desc=(feat.기대금지🚫)&descAlign=90&descAlignY=75&fontColor=3d85c6&stroke=0b5394&strokeWidth=2)
 
 ### Hi there 👋
-
+<a href="https://precious-value.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <!--
 **dedel009/dedel009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 # 📝Available Tech Stacks
-<a href="https://precious-value.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white"/></a>
+
