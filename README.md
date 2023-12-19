@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#📝Stack
-<a href="https://precious-value.tistory.com/" target="_blank"><img src="[https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white](https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white
-)https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white
-"/></a>
+# 📝Available Tech Stacks
+<a href="https://precious-value.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white"/></a>
