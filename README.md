@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&height=300&section=header&text=Introduce%20My%20Self&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&height=300&section=header&text=Introduce%20My%20Self&fontSize=90&animation=blink)
 
 ### Hi there 👋
 
