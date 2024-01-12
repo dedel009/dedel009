@@ -3,10 +3,15 @@
 
 
 
-## 📎Contact
+## ☎Contact
 <a href="https://precious-value.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp;<a href="https://github.com/dedel009" target="_blank"><img src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github"/></a>
 
+## 🛠Stacks
+
+## 💻Development Tools
+
 ## 안녕하세요~ 👋 저는 현재 인사이트정보에서 일하고 있는 풀스택 개발자(3년차) 김도윤이라고 합니다. 
+
 
 
 <!--
