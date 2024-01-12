@@ -11,8 +11,9 @@
 
 ## 🛠Stacks
 
-## 💻Development Tools
 
+
+## 💻Development Tools
 
 
 
@@ -32,5 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📝Available Tech Stacks
+
 
