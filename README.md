@@ -1,37 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Introduce%20My%20Projects&fontSize=80&animation=blinking&desc=(feat.기대금지🚫)&descAlign=90&descAlignY=75&fontColor=3d85c6&stroke=0b5394&strokeWidth=2)
-<!--<img src="https://images.unsplash.com/photo-1497465135434-9dc15238075a?q=80&w=2016&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>-->
-
-
-
-## 🎉간단한 소개
-### 안녕하세요~ 👋 저는 현재 인사이트정보에서 일하고 있는 풀스택 개발자(3년차) 김도윤이라고 합니다. 
-
-## 📱Contact
-<a href="https://precious-value.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-%23FF8800?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp;<a href="https://github.com/dedel009" target="_blank"><img src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github"/></a>
-
-## 🛠Stacks
-
-
-
-## 💻Development Tools
-
-
-
-
-<!--
-**dedel009/dedel009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Introduce%20My%20GitHub🖐&animation=twinkling&fontColor=353b41&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉간단한 소개 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요~ 👋 저는 현재 인사이트정보에서 일하고 있는 풀스택 개발자(3년차) 김도윤이라고 합니다.  </li>고민보단 행동으로 빨리 경험해보자는 생각을 가지고 개발자의 길을 걸어가고 있습니다! 잘 부탁드려요🙏 </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Recoil-0179f3?style=flat-square&logo=Recoil&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://precious-value.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://precious-value.tistory.com/"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dedel009&bg_color=180,00000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedel009&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
