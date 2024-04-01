@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉간단한 소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요~ 👋 저는 현재 인사이트정보에서 일하고 있는 풀스택 개발자(3년차) 김도윤이라고 합니다.  </li>고민보단 행동으로 빨리 경험해보자는 생각을 가지고 개발자의 길을 걸어가고 있습니다! 잘 부탁드려요🙏 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요~ 👋 저는 현재 풀스택 개발자(3년차) 김도윤이라고 합니다.  </li>고민보단 행동으로 빨리 경험해보자는 생각을 가지고 개발자의 길을 걸어가고 있습니다! 잘 부탁드려요🙏 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
