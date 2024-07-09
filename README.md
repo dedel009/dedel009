@@ -21,6 +21,7 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white">
           </div>
     </div>
     <div align= "center">
