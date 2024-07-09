@@ -32,8 +32,7 @@
         <a href=https://github.com/dedel009/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"></a>
     </div><br> 
     <div align= "center"> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=dedel009&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">         
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedel009&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
     </div>         
 </div>
