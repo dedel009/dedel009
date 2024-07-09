@@ -32,5 +32,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedel009&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
     </div>          
 </div>
+        
 ![ㅇㅇ](./profile-3d-contrib/profile-gitblock.svg)        
 
