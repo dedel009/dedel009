@@ -24,7 +24,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> 
-        <a href=https://precious-value.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://precious-value.tistory.com/"> </a>
+        <a href=https://precious-value.tistory.com/> <img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=Tistory&logoColor=white&link=https://precious-value.tistory.com/"> </a>
         <a href=https://github.com/dedel009/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"></a>
     </div><br> 
     <div align= "center"> 
