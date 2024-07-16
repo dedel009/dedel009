@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉간단한 소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요~ 👋 저는 Spring, Spring Boot, React 등을 사용하여 풀스택 웹 개발자로 3년정도 일을 하였고 현재는 Django 백엔드 개발자로 성장 중입니다!! </li>고민보단 행동으로 빨리 경험해보자는 생각을 가지고 개발자의 길을 걸어가고 있습니다! 어떤 코드가 나은 코드인지 끊임없이 고민하며 다양한 언어 및 프레임워크를 배우는 것을 좋아합니다.  잘 부탁드려요🙏 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요~ 👋 저는 Spring, Spring Boot, React 등을 사용하여 풀스택 웹 개발자로 3년정도 일을 하였고 현재는 Django 백엔드 개발자로 성장 중입니다!! </li>고민보단 행동으로 빨리 경험해보자는 생각을 가지고 개발자의 길을 걸어가고 있습니다! 어떤 코드가 나은 코드인지 끊임없이 고민하며 다양한 언어 및 프레임워크를 배우는 것을 좋아합니다. 최근에는 도커를 사용하여 개발 환경 세팅하는 방법을 고민하고 있어요! 그럼 잘 부탁드립니다!🙏 </div> 
     </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
