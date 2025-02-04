@@ -6,8 +6,11 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <ul style="list-style: none;">
             <li>
-                안녕하세요~ 👋 저는 Spring, Spring Boot, React 등을 사용하여 풀스택 웹 개발자로 양산 시설 대관 홈페이지, 양산시 대민 홈페이지 등 개발 및 유지보수를 담당했었고,
+                안녕하세요~ 👋 저는 Spring, Spring Boot, React 등을 사용하여 풀스택 웹 개발자로 
             </li>
+            <li>
+                양산 시설 대관 홈페이지, 양산시 대민 홈페이지 등 개발 및 유지보수를 담당했었고,
+            </li>            
             <li>
                  현재는 운동 머신, 앱, 웹 3개의 클라이언트와 연동하는 REST API 서버를 개발하고 있는 1년차 Django 백엔드 개발자입니다!
             </li>
