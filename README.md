@@ -12,7 +12,7 @@
   <p style="text-align:left;">개발 시 필요한 정보나 상황은 노션에 정리하여 중요한 건 잊지 않기 위해 노력해요! </p>
   <p style="text-align:left;">최근에는 많은 양의 운동 데이터를 조회할 때 시간이 오래 걸리는 문제를 해결하기 위해 쿼리셋을 최적화하거나 </p>
   <p style="text-align:left;">DB 인덱스를 사용하여 시간을 줄이는 이슈를 경험하고 있어요!</p>
-  <p style="text-align:left;">챗 GPT와 싸우면서 보다 빠르게 개발하지만 왜 사용하는지도 중요하게 생각하며, 어제보다 오늘 더 나은 서비스를 개발하고 싶은 개발자입니다.</p>
+  <p style="text-align:left;">챗 GPT와 싸우면서 보다 빠르게 개발하지만 왜 사용하는지도 중요하게 생각하며, 이를 바탕으로 어제보다 오늘 더 나은 서비스를 개발해요!</p>
   <p style="text-align:left;">잘 부탁드려요🫡</p>
 </div>
 <div align= "center">
