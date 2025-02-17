@@ -10,9 +10,9 @@
   <p style="text-align:left;">현재는 운동 머신, 앱, 웹 3개의 클라이언트와 연동하는 REST API 서버를 개발하고 있는 1년차 Django 백엔드 개발자입니다!</p>
   <p style="text-align:left;">다소 조용하지만 그만큼 소통할 때 다른 사람을 배려하고 존중하려고 노력하며, 책임감이 강한 사람이예요!😄</p>
   <p style="text-align:left;">개발 시 필요한 정보나 상황은 노션에 정리하여 중요한 건 잊지 않기 위해 노력해요! </p>
-  <p style="text-align:left;">최근에는 많은 양의 운동 데이터를 조회할 때 시간이 오래 걸리는 문제를 해결하기 위해 쿼리셋을 최적화하거나 </p>
-  <p style="text-align:left;">DB 인덱스를 사용하여 시간을 줄이는 이슈를 경험하고 있어요!</p>
-  <p style="text-align:left;">챗 GPT와 싸우면서 보다 빠르게 개발하지만 왜 사용하는지도 생각해보며, 어제보다 오늘 더 나은 서비스를 개발하고자 해요!</p>
+  <p style="text-align:left;">최근에는 서비스에서 운동 데이터 조회 시간이 오래 걸리는 이슈가 발생하여 쿼리셋을 최적화하거나 </p>
+  <p style="text-align:left;">DB 인덱스를 사용하는 등 열심히 이슈를 해결하려 노력중이예요!</p>
+  <p style="text-align:left;">챗 GPT를 이용해 보다 빠르게 개발하면서 왜 사용하는지도 고민하고, 어제보다 오늘 더 나은 서비스를 개발하고자 해요!</p>
   <p style="text-align:left;">잘 부탁드려요🫡</p>
 </div>
 <div align= "center">
