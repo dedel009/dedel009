@@ -7,13 +7,11 @@
 <div style="font-weight:700; font-size:15px; color:#282d33;">        
   <p style="text-align:left;">안녕하세요~ 👋 저는 Spring, Spring Boot, React 등을 사용하여 풀스택 웹 개발자로</p>
   <p style="text-align:left;">양산 시설 대관 홈페이지, 양산시 대민 홈페이지 등 개발 및 유지보수를 담당했었고,</p>
-  <p style="text-align:left;">현재는 운동 머신, 앱, 웹 3개의 클라이언트와 연동하는 REST API 서버를 개발하고 있는 2년차 Django 백엔드 개발자입니다!</p>
+  <p style="text-align:left;">현재는 운동 머신, 앱, 웹 3개의 클라이언트와 연동하는 REST API 서버를 개발, 유지보수하고 있는 2년차 Django 백엔드 개발자입니다!</p>
   <p style="text-align:left;">다소 조용하지만 그만큼 소통할 때 다른 사람을 배려하고 존중하려고 노력하며, 책임감이 강한 사람이예요!😄</p>
   <p style="text-align:left;">개발 시 필요한 정보나 상황은 노션에 정리하여 중요한 건 잊지 않기 위해 노력해요! </p>
-  <p style="text-align:left;">최근에는 서비스에서 운동 데이터 조회 시간이 오래 걸리는 이슈가 발생하여 쿼리셋을 최적화하거나 </p>
-  <p style="text-align:left;">DB 인덱스를 사용하는 등 열심히 이슈를 해결하려 노력중이예요!</p>
-  <p style="text-align:left;">챗 GPT를 이용해 보다 빠르게 개발하면서 왜 사용하는지도 고민하고, 어제보다 오늘 더 나은 서비스를 개발하고자 해요!</p>
-  <p style="text-align:left;">잘 부탁드려요🫡</p>
+  <p style="text-align:left;">깊이도 중요하지만, 지금은 다양한 언어나 프레임워크를 배우는 것을 좋아해요.</p>
+  <p style="text-align:left;">클로드를 사용해서 개발 생산성을 올리고 백엔드에 국한되지않고 폭넓게 배우는 것을 지향해요.</p>
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
