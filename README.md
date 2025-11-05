@@ -22,7 +22,6 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/Recoil-0179f3?style=flat-square&logo=Recoil&logoColor=white">
       <br/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">        
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">        
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">          
